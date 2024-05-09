@@ -1,0 +1,1 @@
+Write a short summary about computer networks, include the components (LAN, WAN, routers, switches, cables or a wireless connection, nodes, protocols, Ethernet), pros and cons of networks and describe a situation in which a network can be very useful.
